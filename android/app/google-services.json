@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "199322748283",
+    "firebase_url": "https://kasikari-memo-dead8.firebaseio.com",
+    "project_id": "kasikari-memo-dead8",
+    "storage_bucket": "kasikari-memo-dead8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199322748283:android:7a1f76b12646e88f",
+        "android_client_info": {
+          "package_name": "local.keitamatsuo.kasikarimemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199322748283-bt8vlulquh2qi3i15o2log9fu5ghdpkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-9TcAPw03-wXmkxzMz8skfHZZvkBU3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
